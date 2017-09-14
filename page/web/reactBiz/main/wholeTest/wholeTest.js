@@ -12,7 +12,8 @@ render (
     (
     <Router history={hashHistory}>
         <Route path="/" component={App}>
-            <IndexRoute component={Index} />                        <Route path="pageA" component={PageA}/>
+            <IndexRoute component={Index} />
+            <Route path="pageA" component={PageA}/>
              <Route path="pageB" component={PageB}/>
         </Route>
     </Router>
