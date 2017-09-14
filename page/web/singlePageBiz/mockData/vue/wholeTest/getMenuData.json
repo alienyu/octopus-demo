@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "menuName": "pageA",
+      "menuCode": "pageA",
+      "link": "wholeTest.html#/pageA"
+    },
+    {
+      "menuName": "pageB",
+      "menuCode": "pageB",
+      "link": "wholeTest.html#/pageB"
+    },
+    {
+      "menuName": "pageC",
+      "menuCode": "pageC",
+      "link": "wholeTest.html#/pageC"
+    },
+    {
+      "menuName": "pageD",
+      "menuCode": "pageD",
+      "link": "wholeTest.html#/pageD"
+    },
+    {
+      "menuName": "otherPage",
+      "menuCode": "otherPage",
+      "link": "test.html"
+    }
+  ]
+}
